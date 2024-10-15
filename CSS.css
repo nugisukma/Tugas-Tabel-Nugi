@@ -1,0 +1,59 @@
+table{
+    border : 1px solid;
+    height  : 60px;
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 60%;
+}
+tr, td, th{
+    border : 1 px solid;
+    height : 5px;
+}
+#Struktur_Tabel{
+
+    text-align: center;
+    
+    font-size: 14;
+    
+    font-family: 'Times New Roman', Times, serif;
+    
+    }
+    
+    #Judul{
+    
+    color: blue;
+    
+    font-family: 'Times New Roman', Times, serif;
+    
+    font-size: 16;
+    
+    font-weight: bold;
+    
+    text-decoration: underline;
+    
+    text-align: center;
+    
+    }
+    
+    #odd{
+        background-color: rgb(255, 3, 209);
+     }
+    
+    
+    #even{
+
+        background-color: yellow;
+        
+        }
+        
+        #table_head {
+        
+        background-color:rgb(6, 236, 102);
+        
+        }
+    #satuan {
+        text-align: left;
+    }
+    #jumlah{
+        text-align: right;
+    }
